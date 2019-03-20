@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 
 /*
  * Create a PixelRunner class and add a main method to it that creates a PixelParty.
- * Have your pixel party set its color, draw a few rectangles/circles/triangles.
+ * Have your pixel party set its color, draw a few rectangles/circles/triangles. hi
  * Finally, have your PixelParty save the image, and display the image.
  */
 

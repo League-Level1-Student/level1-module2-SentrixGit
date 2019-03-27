@@ -14,5 +14,7 @@ public class spongeBob {
 		
 		squidward.eat();
 		squidward.laugh();
+		
+		
 	}
 }
